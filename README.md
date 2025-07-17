@@ -50,12 +50,6 @@ The trained model achieves high accuracy in classifying plant diseases across mu
 - **Generalization**: Robust performance on unseen test data
 - **Efficiency**: Fast inference times for real-world applications
 
-## 📥 Pre-trained Model
-
-A pre-trained model is available for immediate use:
-
-[Download Pre-trained Model](https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=drive_link)
-
 ## 🔬 Research Applications
 
 This project can be used for:
